@@ -1,0 +1,6 @@
+{
+  "name": "Compassn",
+  "tagline": "A simple compass with design rhombus.",
+  "body": "# CompassN\r\nA simple compass with design rhombus.\r\n\r\nThis app demonstrates usage SensorManager Services and with Sensor magnetometer and orientation detect azimuth in degrees.\r\n\r\n![screenshot_2016-10-28-16-15-45](https://cloud.githubusercontent.com/assets/6066400/19806646/5ca7c01a-9d2d-11e6-810e-5425701b8f6b.png)\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
